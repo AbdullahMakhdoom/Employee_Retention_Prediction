@@ -1,5 +1,5 @@
 # Employee Retention Prediction
-  An end-to-end Machine Learning project, built for Human Resource Department, for predicting whether an employee will saty in the organization or not. 
+  An end-to-end Machine Learning project, built for Human Resource Department, for predicting whether an employee will stay in the organization or not. 
   REST API endpoints created for training and batch predicting .csv files. 
   Flask Web App created for single instance prediction.
   
